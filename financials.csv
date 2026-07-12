@@ -1,0 +1,7 @@
+name,ticker,exchange,ticker,fiscal_year,currency,unit,total_assets,total_liabilities,total_equity,total_operating_income,operating_expenses,impairment_charge,profit_before_tax,net_profit,eps,loans_or_financing_net,customer_deposits,is_estimated
+Abu Dhabi Commercial Bank,ADCB,ADX,ADCB,2024,AED,million,652814.0,577247.0,75567.0,19479.0,6031.0,2874.0,10585.0,9419.0,1.17,350638.0,421060.0,0
+Abu Dhabi Commercial Bank,ADCB,ADX,ADCB,2025,AED,million,773654.0,684913.0,88741.0,22183.0,6246.0,3103.0,12843.0,11445.0,1.45,405967.0,499775.0,0
+Dubai Islamic Bank,DIB,DFM,DIB,2024,AED,million,343800.0,290947.0,52853.0,23341.102,3424.803,406.813,9004.924,8165.038,1.04,295000.0,267000.0,1
+Dubai Islamic Bank,DIB,DFM,DIB,2025,AED,million,416000.0,362865.0,53135.0,23826.774,3762.769,485.446,9002.654,7807.542,0.98,353000.0,320000.0,1
+Emirates NBD,EMIRATESNBD,DFM,EMIRATESNBD,2024,AED,million,996582.0,870368.0,126214.0,44134.0,13751.0,106.0,27141.0,23008.0,3.56,501627.0,666777.0,0
+Emirates NBD,EMIRATESNBD,DFM,EMIRATESNBD,2025,AED,million,1164442.0,1019623.0,144819.0,49319.0,15035.0,1468.0,29838.0,24007.0,3.71,632847.0,786024.0,0
