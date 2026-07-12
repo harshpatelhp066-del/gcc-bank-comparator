@@ -1,19 +1,24 @@
 # GCC Bank Earnings Comparator
 
-A small tool that pulls audited financial statements for three DFM/ADX-listed
-UAE banks out of individual PDF filings and puts them in one comparable
-dataset, with a dashboard on top. Built as the proof-point project discussed
-in the CV/career-strategy thread: DFM and ADX publish quarterly and annual
-results as PDFs, not structured data or an API (nothing like SEC EDGAR), so
-comparing even basic numbers across banks means opening filings one at a time.
-This does that pull once, for three banks.
+**[Live dashboard](https://harshpatelhp066-del.github.io/gcc-bank-comparator/)** · SQLite + CSV + a PDF-to-structured-data extraction engine validated at **100% (56/56 fields)** against three real audited bank filings.
+
+Pulls audited financial statements for three DFM/ADX-listed UAE banks out of
+individual PDF filings — the way they're actually published, since neither
+exchange has anything like SEC EDGAR — and puts them into one comparable
+dataset, a working dashboard, and an automated parser that reads the PDFs
+itself instead of relying on manual transcription. See `extractor/README.md`
+for how the parser works, the bugs found while building it, and exactly
+which fields it can and can't extract yet.
 
 ## What's in here
 
-- **`dashboard.html`** — the comparator. Open it in any browser, no server
+- **`dashboard.html`** — the comparator ([live version](https://harshpatelhp066-del.github.io/gcc-bank-comparator/)). Open it in any browser, no server
   needed. Metric cards, YoY bar charts (total assets, net profit, ROE,
   operating income growth), a full data table, and a source ledger linking
   every number back to the filing it came from.
+- **`extractor/`** — the automated PDF extraction engine. Regexes financial
+  line items directly out of real filing text; validated field-by-field
+  against the manually verified data below.
 - **`gcc_banks.db`** — SQLite database with two tables (`banks`, `financials`)
   holding the same data behind the dashboard.
 - **`financials.csv`** — flat export of the same data, for opening in Excel
