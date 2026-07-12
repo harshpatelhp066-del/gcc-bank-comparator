@@ -1,0 +1,76 @@
+ABU DHABI COMMERCIAL BANK PJSC
+Consolidated statement of financial position 
+As at December 31, 2025
+As at As at As at As at
+December 31 December 31 December 31 December 31
+2025 2024 2025 2024
+Notes AED million AED million USD million USD million
+Assets
+Cash and balances with central banks, net 6 63,019 46,223 17,157 12,585
+Deposits and balances due from banks, net 7 56,594 50,214 15,408 13,671
+Financial assets at fair value through profit or 
+loss 8 21,686 12,870 5,904 3,504
+Derivative financial instruments 9 15,160 18,973 4,127 5,166
+Investment securities, net 10 166,137 142,989 45,232 38,930
+Loans and advances to customers, net 11 405,967 350,638 110,527 95,464
+Investment in associates and joint venture 12 306 329 83 89
+Investment properties 13 1,193 1,716 325 467
+Other assets, net 14 34,970 20,004 9,521 5,445
+Property and equipment, net 15 689 1,047 188 285
+Intangible assets, net 16 7,658 7,672 2,085 2,089
+Right of use assets, net 275 139 75 38
+Total assets 773,654 652,814 210,632 177,733
+Liabilities
+Due to banks 17 19,086 11,277 5,196 3,070
+Derivative financial instruments 9 28,264 23,891 7,695 6,505
+Deposits from customers 18 499,775 421,060 136,067 114,637
+Euro commercial paper 19 8,720 6,153 2,374 1,675
+Borrowings 20 89,794 88,687 24,447 24,146
+Other liabilities 21 39,274 26,179 10,693 7,127
+Total liabilities 684,913 577,247 186,472 157,160
+Equity
+Share capital 22 7,912 7,320 2,154 1,993
+Share premium 17,879 17,879 4,868 4,868
+Other reserves 23 18,287 11,082 4,979 3,017
+Retained earnings 35,904 30,526 9,775 8,311
+Capital notes 26 8,755 8,755 2,383 2,383
+Equity attributable to equity holders of the 
+Bank 88,737 75,562 24,159 20,572
+Non-controlling interests 4 5 1 1
+Total equity 88,741 75,567 24,160 20,573
+Total liabilities and equity 773,654 652,814 210,632 177,733
+
+ABU DHABI COMMERCIAL BANK PJSC
+Consolidated income statement
+For the year ended December 31, 2025
+Notes
+2025 2024 2025 2024
+AED million AED million USD million USD million
+Interest income 27 31,210 30,217 8,497 8,227
+Interest expense 28 (19,119) (19,188) (5,205) (5,224)
+Net interest income 12,091 11,029 3,292 3,003
+Income from Islamic financing and 
+investing products 24 3,913 3,516 1,065 957
+Distribution on Islamic deposits and profit 
+paid to sukuk holders 24 (1,316) (1,320) (358) (359)
+Net income from Islamic financing and 
+investing products 2,597 2,196 707 598
+Total net interest income and income 
+from Islamic financing and investing 
+products 14,688 13,225 3,999 3,601
+Net fees and commission income 29 3,607 3,101 982 844
+Net trading income 30 2,716 2,064 739 561
+Net gains from investment properties 13 51 27 14 7
+Other operating income 31 1,121 1,062 305 289
+Operating income 22,183 19,479 6,039 5,302
+Operating expenses 32 (6,246) (6,031) (1,701) (1,642)
+Operating profit before impairment 
+charge 15,937 13,448 4,338 3,660
+Impairment charge 33 (3,103) (2,874) (845) (782)
+Profit after impairment charge 12,834 10,574 3,493 2,878
+Share in profit of associates 12 9 11 3 3
+Profit before taxation 12,843 10,585 3,496 2,881
+Income tax charge 34 (1,398) (1,166) (380) (317)
+Profit for the year 11,445 9,419 3,116 2,564
+Basic earnings per share (AED/USD) 35 1.45 1.17 0.39 0.32
+Diluted earnings per share (AED/USD) 35 1.44 1.17 0.39 0.32

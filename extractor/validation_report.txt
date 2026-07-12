@@ -1,0 +1,64 @@
+
+=== EMIRATESNBD ===
+  FY2025 total_assets                 extracted=  1,164,442.00  db=  1,164,442.00  [MATCH]
+  FY2025 total_liabilities            extracted=  1,019,623.00  db=  1,019,623.00  [MATCH]
+  FY2025 total_equity                 extracted=    144,819.00  db=    144,819.00  [MATCH]
+  FY2025 total_operating_income       extracted=     49,319.00  db=     49,319.00  [MATCH]
+  FY2025 operating_expenses           extracted=    -15,035.00  db=     15,035.00  [MATCH]  (sign convention: PDF shows as a deduction, DB stores magnitude)
+  FY2025 impairment_charge            extracted=     -1,468.00  db=      1,468.00  [MATCH]  (sign convention: PDF shows as a deduction, DB stores magnitude)
+  FY2025 profit_before_tax            extracted=     29,838.00  db=     29,838.00  [MATCH]
+  FY2025 net_profit                   extracted=     24,007.00  db=     24,007.00  [MATCH]
+  FY2025 eps                          extracted=          3.71  db=          3.71  [MATCH]
+  FY2025 loans_or_financing_net       extracted=    632,847.00  db=    632,847.00  [MATCH]
+  FY2025 customer_deposits            extracted=    786,024.00  db=    786,024.00  [MATCH]
+  FY2024 total_assets                 extracted=    996,582.00  db=    996,582.00  [MATCH]
+  FY2024 total_liabilities            extracted=    870,368.00  db=    870,368.00  [MATCH]
+  FY2024 total_equity                 extracted=    126,214.00  db=    126,214.00  [MATCH]
+  FY2024 total_operating_income       extracted=     44,134.00  db=     44,134.00  [MATCH]
+  FY2024 operating_expenses           extracted=    -13,751.00  db=     13,751.00  [MATCH]  (sign convention: PDF shows as a deduction, DB stores magnitude)
+  FY2024 impairment_charge            extracted=       -106.00  db=        106.00  [MATCH]  (sign convention: PDF shows as a deduction, DB stores magnitude)
+  FY2024 profit_before_tax            extracted=     27,141.00  db=     27,141.00  [MATCH]
+  FY2024 net_profit                   extracted=     23,008.00  db=     23,008.00  [MATCH]
+  FY2024 eps                          extracted=          3.56  db=          3.56  [MATCH]
+  FY2024 loans_or_financing_net       extracted=    501,627.00  db=    501,627.00  [MATCH]
+  FY2024 customer_deposits            extracted=    666,777.00  db=    666,777.00  [MATCH]
+
+=== ADCB ===
+  FY2025 total_assets                 extracted=    773,654.00  db=    773,654.00  [MATCH]
+  FY2025 total_liabilities            extracted=    684,913.00  db=    684,913.00  [MATCH]
+  FY2025 total_equity                 extracted=     88,741.00  db=     88,741.00  [MATCH]
+  FY2025 total_operating_income       extracted=     22,183.00  db=     22,183.00  [MATCH]
+  FY2025 operating_expenses           extracted=     -6,246.00  db=      6,246.00  [MATCH]  (sign convention: PDF shows as a deduction, DB stores magnitude)
+  FY2025 impairment_charge            extracted=     -3,103.00  db=      3,103.00  [MATCH]  (sign convention: PDF shows as a deduction, DB stores magnitude)
+  FY2025 profit_before_tax            extracted=     12,843.00  db=     12,843.00  [MATCH]
+  FY2025 net_profit                   extracted=     11,445.00  db=     11,445.00  [MATCH]
+  FY2025 eps                          extracted=          1.45  db=          1.45  [MATCH]
+  FY2025 loans_or_financing_net       extracted=    405,967.00  db=    405,967.00  [MATCH]
+  FY2025 customer_deposits            extracted=    499,775.00  db=    499,775.00  [MATCH]
+  FY2024 total_assets                 extracted=    652,814.00  db=    652,814.00  [MATCH]
+  FY2024 total_liabilities            extracted=    577,247.00  db=    577,247.00  [MATCH]
+  FY2024 total_equity                 extracted=     75,567.00  db=     75,567.00  [MATCH]
+  FY2024 total_operating_income       extracted=     19,479.00  db=     19,479.00  [MATCH]
+  FY2024 operating_expenses           extracted=     -6,031.00  db=      6,031.00  [MATCH]  (sign convention: PDF shows as a deduction, DB stores magnitude)
+  FY2024 impairment_charge            extracted=     -2,874.00  db=      2,874.00  [MATCH]  (sign convention: PDF shows as a deduction, DB stores magnitude)
+  FY2024 profit_before_tax            extracted=     10,585.00  db=     10,585.00  [MATCH]
+  FY2024 net_profit                   extracted=      9,419.00  db=      9,419.00  [MATCH]
+  FY2024 eps                          extracted=          1.17  db=          1.17  [MATCH]
+  FY2024 loans_or_financing_net       extracted=    350,638.00  db=    350,638.00  [MATCH]
+  FY2024 customer_deposits            extracted=    421,060.00  db=    421,060.00  [MATCH]
+
+=== DIB ===
+  FY2025 total_operating_income       extracted=     23,826.77  db=     23,826.77  [MATCH]
+  FY2025 operating_expenses           extracted=     -3,762.77  db=      3,762.77  [MATCH]  (sign convention: PDF shows as a deduction, DB stores magnitude)
+  FY2025 impairment_charge            extracted=       -485.45  db=        485.45  [MATCH]  (sign convention: PDF shows as a deduction, DB stores magnitude)
+  FY2025 profit_before_tax            extracted=      9,002.65  db=      9,002.65  [MATCH]
+  FY2025 net_profit                   extracted=      7,807.54  db=      7,807.54  [MATCH]
+  FY2025 eps                          extracted=          0.98  db=          0.98  [MATCH]
+  FY2024 total_operating_income       extracted=     23,341.10  db=     23,341.10  [MATCH]
+  FY2024 operating_expenses           extracted=     -3,424.80  db=      3,424.80  [MATCH]  (sign convention: PDF shows as a deduction, DB stores magnitude)
+  FY2024 impairment_charge            extracted=       -406.81  db=        406.81  [MATCH]  (sign convention: PDF shows as a deduction, DB stores magnitude)
+  FY2024 profit_before_tax            extracted=      9,004.92  db=      9,004.92  [MATCH]
+  FY2024 net_profit                   extracted=      8,165.04  db=      8,165.04  [MATCH]
+  FY2024 eps                          extracted=          1.04  db=          1.04  [MATCH]
+
+=== SUMMARY: 56/56 extracted values matched the manually verified database (100.0%) ===

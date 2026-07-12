@@ -1,0 +1,70 @@
+Group Consolidated Statement of Financial Position
+As at 31 December 2025
+Notes
+2025 
+AED million
+2024 
+AED million
+Assets
+Cash and deposits with central banks 9 124,647 104,665
+Due from banks 10 136,147 132,766
+Investment securities 11 206,608 199,223
+Loans and receivables 12 632,847 501,627
+Positive fair value of derivatives 33 12,413 12,468
+Customer acceptances 9,350 9,478
+Property and equipment 8,742 7,941
+Goodwill and intangibles 14 5,620 5,626
+Other assets 15 28,068 22,788
+Total assets 1,164,442 996,582
+Liabilities
+Due to banks 16 66,277 55,487
+Customer deposits 17 786,024 666,777
+Debt issued, sukuks payable and other borrowed funds 18 90,287 79,903
+Negative fair value of derivatives 33 19,208 15,897
+Customer acceptances 9,350 9,478
+Other liabilities 19 48,477 42,826
+Total liabilities 1,019,623 870,368
+Equity
+Issued capital 20 6,317 6,317
+Treasury shares (46) (46)
+Tier 1 capital notes 21 9,129 9,129
+Share premium reserve 20 17,954 17,954
+Legal and statutory reserve 22 3,158 3,158
+Other reserves 22 2,945 2,945
+Fair value reserve 22 (1,122) (1,132)
+Currency translation reserve 22 (4,438) (6,071)
+Retained earnings 110,685 93,736
+Total shareholders' equity 144,582 125,990
+Non-controlling interests 237 224
+Total equity 144,819 126,214
+Total liabilities and equity 1,164,442 996,582
+
+Group Consolidated Statement of Income
+For the year ended 31 December 2025
+Notes
+2025 
+AED million
+2024
+AED million
+Interest and similar income 70,892 69,129
+Interest and similar expense (42,485) (42,760)
+Net interest income 23 28,407 26,369
+Income from islamic financing and investment products 24 11,083 9,003
+Distribution on islamic deposits and profit paid to sukuk holders 25 (3,988) (2,976)
+Net income from islamic financing and investment products 7,095 6,027
+Net interest income and net income from islamic financing and investment products 35,502 32,396
+Fee and commission income 15,738 13,347
+Fee and commission expense (7,706) (6,554)
+Net fee and commission income 26 8,032 6,793
+Net gain on trading securities 2,263 838
+Other operating income 27 3,522 4,107
+Total operating income 49,319 44,134
+General and administrative expenses 28 (15,035) (13,751)
+Operating profit before impairment 34,284 30,383
+Net impairment 29 (1,468) (106)
+Operating profit before taxation and others 32,816 30,277
+Hyperinflation adjustment on net monetary position 8 (2,978) (3,136)
+Profit for the year before taxation 29,838 27,141
+Taxation charge 31 (5,831) (4,133)
+Profit for the year 24,007 23,008
+Earnings per share (AED) 32 3.71 3.56
